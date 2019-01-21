@@ -1,0 +1,3 @@
+Ceci est un nouveau fichier pour essayer de comprendre le fonctionnement d'un fork et des 'pull requests'. Merci de votre attention,
+amicalement votre,
+BATMAN
